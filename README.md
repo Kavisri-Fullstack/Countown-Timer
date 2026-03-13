@@ -16,10 +16,6 @@ This is a simple New Year Countdown Timer built using:
 - style.css
 - script.js
 - img.jpg
-
-## 🌐 Live Demo
-(Add your GitHub Pages link here)
-
 ---
 
 Made with ❤️ by Kavisri
